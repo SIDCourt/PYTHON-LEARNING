@@ -1,1 +1,1 @@
-git add .
+print("First commit - let's go")
